@@ -7,11 +7,12 @@ Esta es una aplicación del tiempo que permite a los usuarios buscar y ver el es
 
 ## Capturas de Pantalla
 
+<p float="left">
+  <img src="IMG1.png" width="350" center />
+  <img src="IMG2.png" width="350" center /> 
+</p>
 
 
-![App Screenshot](IMG1.png)
-
-![App Screenshot](IMG2.png)
 
 
 ## Instalación
