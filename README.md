@@ -9,8 +9,9 @@ Esta es una aplicación del tiempo que permite a los usuarios buscar y ver el es
 
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](IMG1.png)
 
+![App Screenshot](IMG2.png)
 
 
 ## Instalación
